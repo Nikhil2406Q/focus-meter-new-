@@ -5,7 +5,8 @@ import Script from "next/script";
 import { TempoInit } from "@/components/tempo-init";
 import { ThemeProvider } from "@/components/theme-provider";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ subsets: ["latin"] });<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5013035997524458"
+     crossorigin="anonymous"></script>
 
 export const metadata: Metadata = {
   title: "Tempo - Modern SaaS Starter",
