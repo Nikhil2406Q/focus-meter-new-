@@ -20,6 +20,13 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        {/* ✅ AdSense Site Verification Meta Tag */}
+        <meta
+          name="google-site-verification"
+          content="ca-pub-5013035997524458"
+        />
+
+        {/* ✅ AdSense Script */}
         <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5013035997524458"
